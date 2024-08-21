@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/OpenAI-ConsoleApp/bin/Debug/net8.0
+/OpenAI-ConsoleApp/obj/Debug/net8.0/refint
+/OpenAI-ConsoleApp/obj/Debug/net8.0/ref
+/OpenAI-ConsoleApp/obj/Debug/net8.0/OpenAI-ConsoleApp.AssemblyInfo.cs
